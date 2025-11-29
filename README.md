@@ -8,36 +8,36 @@ This project follows a clean folder structure and modern front-end architecture 
 
 📌 Features
 
-🔐 Role-based Dashboard (Admin / Manager / Fleet)
-
-🚗 Car Management (Add/Edit/Delete + Status)
-
-👥 Customer Management
-
-📅 Reservations & Scheduling System
-
-📊 Analytics Dashboard (Revenue, Active Rentals, Availability)
-
-🌓 Dark Mode Support
-
-⚡ Optimized server actions & parallel data fetching
-
-📱 Fully responsive + Tailwind utility classes
+      🔐 Role-based Dashboard (Admin / Manager / Fleet)
+      
+      🚗 Car Management (Add/Edit/Delete + Status)
+      
+      👥 Customer Management
+      
+      📅 Reservations & Scheduling System
+      
+      📊 Analytics Dashboard (Revenue, Active Rentals, Availability)
+      
+      🌓 Dark Mode Support
+      
+      ⚡ Optimized server actions & parallel data fetching
+      
+      📱 Fully responsive + Tailwind utility classes
 
 ---
 🛠️ Tech Stack
 
-| Category     | Technology                             |
-| ------------ | -------------------------------------- |
-| Framework    | **Next.js 15 (App Router)**            |
-| Language     | **TypeScript**                         |
-| UI / Styling | **Tailwind CSS**, Shadcn/UI            |
-| Icons        | Lucide Icons                           |
-| Auth         | NextAuth / Custom JWT                  |
-| Data Layer   | Server Actions, React Query (optional) |
-| State        | React 19 + useOptimistic               |
-| Charts       | Recharts                               |
-| Linting      | ESLint + Prettier                      |
+      | Category     | Technology                             |
+      | ------------ | -------------------------------------- |
+      | Framework    | **Next.js 15 (App Router)**            |
+      | Language     | **TypeScript**                         |
+      | UI / Styling | **Tailwind CSS**, Shadcn/UI            |
+      | Icons        | Lucide Icons                           |
+      | Auth         | NextAuth / Custom JWT                  |
+      | Data Layer   | Server Actions, React Query (optional) |
+      | State        | React 19 + useOptimistic               |
+      | Charts       | Recharts                               |
+      | Linting      | ESLint + Prettier                      |
 
 
 
@@ -94,27 +94,28 @@ This project follows a clean folder structure and modern front-end architecture 
 
 ⚙️ Installation
 
-## 1. Clone project
-https://github.com/Mehdibahrami1990/Dashboard-DesignForCar.git
+      ## 1. Clone project
+      https://github.com/Mehdibahrami1990/Dashboard-DesignForCar.git
+      
+      ## 2. Install dependencies
+      npm install
+      
+      ## 3. Run development
+      npm run dev
 
-## 2. Install dependencies
-npm install
+---  
 
-## 3. Run development
-npm run dev
-
---- 
-
-🚀 Build for Production
-npm run build
-npm start
+ Build for Production
+ 
+      npm run build
+      npm start
 
 ---
-# Author
+Author
 
-Mehdi Bahrami
-Front-End & Fullstack Developer
-mehdi.bahrami11990@gmail.com
+    Mehdi Bahrami
+    Front-End & Fullstack Developer
+    mehdi.bahrami11990@gmail.com
 
-🔗 GitHub
-| LinkedIn
+    🔗 GitHub
+    | LinkedIn
