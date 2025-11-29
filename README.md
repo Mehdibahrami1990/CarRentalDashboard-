@@ -108,3 +108,13 @@ npm run dev
 🚀 Build for Production
 npm run build
 npm start
+
+---
+# Author
+
+Mehdi Bahrami
+Front-End & Fullstack Developer
+mehdi.bahrami11990@gmail.com
+
+🔗 GitHub
+| LinkedIn
